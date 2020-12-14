@@ -1,0 +1,202 @@
+{
+  "Femei" : {
+    "Coafură speciala" : "100-130",
+    "Make Up" : {
+      "Mireasă" : "250-300",
+      "Machiaj zi" : 170,
+      "Machiaj seară" : 200,
+      "Probă mireasă" : 150
+    },
+    "Cosmetică" : {
+      "Gommage" : 15,
+      "Pensat intreținere" : 25,
+      "MARIO BADESCU" : {
+        "Tratament acneic" : 180,
+        "Tratament ten matur" : 180,
+        "Tratament hidratare" : 150
+      },
+      "Vopsit gene\/sprâncene" : 20,
+      "Pensat formă" : 35,
+      "Masaj facial" : 50,
+      "PCA SKIN" : {
+        "Tratament ten sensibil si cuperotic" : 220,
+        "Peeling (Estetique Peel, Sensi Peel)" : 260,
+        "Tratament acneic" : 230,
+        "Tratament hidratare" : 180,
+        "Tratament ten matur" : 240
+      },
+      "Demachiere" : 10
+    },
+    "Permanent" : {
+      "Păr mediu" : 170,
+      "Păr scurt" : 170,
+      "Păr lung" : 180
+    },
+    "Coafat" : {
+      "Îndreptare\/Bucle placă" : {
+        "Păr mediu" : 30,
+        "Păr scurt" : 25,
+        "Păr lung" : 35
+      },
+      "Uscat simplu" : 10,
+      "Extra styling" : 10,
+      "Ondulator" : {
+        "Păr mediu" : 45,
+        "Păr scurt" : 30,
+        "Păr lung" : 50
+      },
+      "Împletit" : "15-35",
+      "Bigudiuri" : {
+        "Păr mediu" : 30,
+        "Păr scurt" : 25,
+        "Păr lung" : 40
+      },
+      "Perie" : {
+        "Păr mediu" : 45,
+        "Păr scurt" : 30,
+        "Păr lung" : 50
+      },
+      "Difuzor" : {
+        "Păr mediu" : 20,
+        "Păr scurt" : 10,
+        "Păr lung" : 30
+      }
+    },
+    "Coafură mireasa" : "200-250",
+    "Manichiură\/Pedichiură" : {
+      "Ojă clasică (OPI, CUCCIO, ciate)" : {
+        "Aplicare lac" : 15,
+        "Manichiură clasică" : 35,
+        "Caviar\/Model in apă\/unghie" : 10,
+        "Pedichiură clasică" : 45,
+        "Pedichiură SPA" : 58,
+        "Manichiură SPA" : 48
+      },
+      "Ojă semipermanentă (CUCCIO, GELeration)" : {
+        "Manichiură clasică" : 60,
+        "Aplicare ojă semipermanentă" : 45,
+        "Îndepartare ojă semipermanentă" : 15,
+        "Pedichiură clasică" : 70,
+        "Pedichiură SPA" : 85,
+        "Manichiură SPA" : 75
+      },
+      "Gel" : {
+        "French" : 20,
+        "Model" : "10-30",
+        "Aplicare unghii cu gel" : 80,
+        "Întreținere" : 60
+      }
+    },
+    "Epilat (ceara tradițională\/unica folosință)" : {
+      "Epilat lombar" : 20,
+      "Epilat lung" : 40,
+      "Epilat fese" : 20,
+      "Epilat axila" : 20,
+      "Epilat fața bărbie\/pomeți\/perciuni" : 15,
+      "Epilat mustață" : 15,
+      "Epilat inginal intim" : 45,
+      "Epilat inghinal normal" : 25,
+      "Epilat scurt" : 30,
+      "Epilat abdomen" : 20,
+      "Epilat brațe" : 25,
+      "Epilat fața - total (+ demachiere)" : 35
+    },
+    "Vopsit" : {
+      "Cremă decolorantă PLATINUM" : 40,
+      "Manoperă" : {
+        "Păr mediu" : 50,
+        "Păr scurt" : 40,
+        "Păr lung" : 60
+      },
+      "1 tub de vopsea + oxidant" : {
+        "INOA" : 80,
+        "DIA Light Richesse" : 70,
+        "LUOCOLOR" : 70,
+        "MAJIREL" : 70
+      }
+    },
+    "Tuns" : {
+      "Simplu (vârfuri+breton)" : 35,
+      "Schimbare formă" : 50,
+      "Tuns copii" : 35
+    },
+    "Decapaj" : {
+      "Pudră (o cupă)" : 45,
+      "Manoperă" : {
+        "Păr mediu" : 60,
+        "Păr scurt" : 50,
+        "Păr lung" : 70
+      }
+    },
+    "Spălat (manoperă+masaj)" : {
+      "MOROCCANOIL" : {
+        "Șampon și mască" : {
+          "Păr mediu" : 40,
+          "Păr scurt" : 40,
+          "Păr lung" : 45
+        },
+        "Tratament" : 15
+      },
+    "JOICO" : {
+      "Șampon și mască" : {
+        "Păr mediu" : 35,
+        "Păr scurt" : 35,
+        "Păr lung" : 40
+      },
+      "Tratament 4 pași K-PAK" : {
+        "Păr mediu" : 60,
+        "Păr scurt" : 60,
+        "Păr lung" : 65
+      }
+    },
+      "L'OREAL" : {
+        "Aplicare fiolă" : 30,
+        "Șampon și masca" : {
+          "Păr mediu" : 30,
+          "Păr scurt" : 30,
+          "Păr lung" : 35
+        },
+        "Spălat după vopsit (emulsie)" : {
+          "Păr mediu" : 40,
+          "Păr scurt" : 35,
+          "Păr lung" : 45
+        }
+      }
+    },
+    "Suvițe, ombre, balayage" : {
+      "Produse" : "de la 30 lei",
+      "Manoperă" : "40-70"
+    },
+    "Pachet coafor ALL INCLUSIVE" : {
+      "Păr mediu" : 320,
+      "Păr scurt" : 240,
+      "Păr lung" : 340
+    },
+    "Extensii gene (XTREME LASHES)" : {
+      "Prima aplicare (160-200 gene)" : "110€",
+      "Intreținere (2-3 săptămâni)" : 170
+    }
+  },
+  "Barbati" : {
+    "Nuanțat (cover 5')" : 50,
+    "Pedichiură" : 45,
+    "Spălat (manoperă+produse+masaj)" : 20,
+    "Epilat" : {
+      "Epilat axilă" : 20,
+      "Epilat spate" : 40,
+      "Epilat interfesier" : 15,
+      "Epilat ceafă" : 15,
+      "Epilat brate" : 30,
+      "Epilat piept" : 35,
+      "Epilat lung" : 50,
+      "Epilat inghinal partial\/total" : "35\/45",
+      "Epilat fese" : 25
+    },
+    "Tuns" : {
+      "Contur și perciuni" : 15,
+      "Mașină de tuns" : 20,
+      "Scissors over comb" : 40
+    },
+    "Manichiură" : 33
+  }
+}
